@@ -6,8 +6,7 @@
 .main-page{
     position: relative;
     height:auto; 
-    /* height:950px; */
-    max-width:100%;
+    width:100%;
 }
 .main-page img{
     width:100%;
