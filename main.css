@@ -25,3 +25,12 @@
    color:white;
    font-family: 'Montserrat', sans-serif;
 }
+@media(min-width:320px){
+   .welcome-info-intro{
+/*        position: relative; */
+       top:360px;
+/*        color:white; */
+/*        font-family: 'Montserrat', sans-serif; */
+   }
+{
+    
