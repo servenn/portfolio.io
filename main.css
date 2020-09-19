@@ -18,3 +18,17 @@ html,body{
     left:50%;
     transform: translate(-50%,-50%);
 }
+.intro span{
+    color: rgb(214, 18, 122);
+}
+.intro .hireme-Buttons{
+    display:flex;
+    justify-content:space-between;
+}
+.intro .hireme-Buttons a{
+    text-decoration:none;
+    border:1px solid #fff;
+    padding:10px;
+    border-radius:10%;
+    color:#fff;
+}
