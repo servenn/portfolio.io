@@ -6,12 +6,13 @@
 .main-page{
     position: relative;
     height:auto; 
+    /* height:950px; */
     width:100%;
 }
 .main-page img{
     width:100%;
     filter: brightness(50%);
-    height:400px;
+    height:550px;
     position: absolute;
 }
 .navbar{
@@ -20,20 +21,22 @@
     background-color: transparent !important;
 }
 .welcome-info-intro{
-   position: relative;
-/*    top:360px; */
-   color:white;
-   font-family: 'Montserrat', sans-serif;
-}
-@media(min-width:320px){
-   .welcome-info-intro{
-/*        position: relative; */
-       top:360px;
-/*        color:white; */
-/*        font-family: 'Montserrat', sans-serif; */
-   }
-    .desktop-buttons{
-       display: none;
-   }
-}
-    
+    position: relative;
+    top:360px;
+    color:white;
+    font-family: 'Montserrat', sans-serif;
+    /* padding-bottom:100px; */
+    /* border:1px solid  red; */
+ }
+
+ @media(min-width:320px){
+  
+     .desktop-buttons{
+        display: none;
+    }
+    .main-page{
+        height:550px;
+        /* border:1px solid green; */
+    }
+ }
+ 
