@@ -11,3 +11,10 @@ html,body{
     background-color: #000;
     height:100vh;
 }
+.intro{
+    color:#fff;
+    position:absolute;
+    top:55%;
+    left:50%;
+    transform: translate(-50%,-50%);
+}
