@@ -32,5 +32,8 @@
 /*        color:white; */
 /*        font-family: 'Montserrat', sans-serif; */
    }
-{
+    .desktop-buttons{
+       display: none;
+   }
+}
     
