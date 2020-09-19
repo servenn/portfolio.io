@@ -3,7 +3,8 @@
     padding:0;
     box-sizing: border-box;
 }
- body{
-     background-color: lightblue;
- }
+.main-page{
+    background-color: #000;
+    height:300px;
+}
  
